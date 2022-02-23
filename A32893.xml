@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Christian principle and peaceable conversation of the people (of God) called Quakers with respect to the King and government once more asserted / published by reason of some late reflections cast upon them, especially by The Observator dated the 22d July 1685 : with a brief testimony against all plots, conspiriacies and rebellion as being inconsistant with true Christianity.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32893</idno>
+            <idno type="STC">Wing C3947</idno>
+            <idno type="STC">ESTC R28558</idno>
+            <idno type="EEBO-CITATION">10629693</idno>
+            <idno type="OCLC">ocm 10629693</idno>
+            <idno type="VID">45460</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32893)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45460)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1400:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Christian principle and peaceable conversation of the people (of God) called Quakers with respect to the King and government once more asserted / published by reason of some late reflections cast upon them, especially by The Observator dated the 22d July 1685 : with a brief testimony against all plots, conspiriacies and rebellion as being inconsistant with true Christianity.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end: From and in behalf of the people of God called Quakers. London, dated the 27th, 5th month 85.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45460:1" rendition="simple:additions"/>
+            <p>THE CHRISTIAN PRINCIPLE AND Peaceable CONVERSATION Of the People (of God) called QUAKERS, With Reſpect to the KING AND GOVERNMENT Once more Aſſerted.</p>
+            <p>Publiſhed by Reaſon of ſome late Reflections caſt upon them, Eſpecially by the OBSERVATOR Dated the 22d <hi>July</hi> 1685.</p>
+            <p>With a brief Teſtimony againſt all Plots, Conſpiracies, and Rebellion.</p>
+            <p>As being Inconſiſtant with true Chriſtianity.</p>
+            <p>Printed in the Year, 1685.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:45460:2"/>
+            <p>EVER Since the great God of Heaven and Earth hath made us ſenſible of the knowledge of his Truth in the inward Parts, and the powerful op<g ref="char:EOLhyphen"/>peration of it to Regenerate and Renew our Minds, change and purifie our Hearts, and Illuminate our Underſtandings: we have been careful to keep our Conſciences void of offence towards God, and towards Men, and to follow peace and enſue it; delighting to do good to all, but to hurt none. This we have in our Lives and Converſations manifeſted amongſt our Neighbours and Country Men, having been enabled there<g ref="char:EOLhyphen"/>to by the Grace and Spirit of God; which taught the true Chri<g ref="char:EOLhyphen"/>ſtians in the primitive times, to deny Ungodlineſs and Worldly Luſts, and to live Soberly, Righteouſly, and Godly in this pre<g ref="char:EOLhyphen"/>ſent World. And hath taught us the ſame leſſons in this Age.</p>
+            <p>We have been very evilly treated, and variouſly proved and tryed ſince we have been a People, both in <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and in many other places beyond the Seas within this thirty odd years; under various Governours and Governments. And we have undergone many and grievous ſufferings through the aſſiſtants of God, with much Meekneſs and Patience with<g ref="char:EOLhyphen"/>out Reſiſtance; yea, without a thought or deſire to avenge our ſelves, or to lift up a Hand againſt thoſe that hath Plowed long Furrowes upon our Backs. But inſtead thereof have deſired the welfare of our Enemies and Perſecutors, according to the precepts and example of Chriſt Jeſus.</p>
+            <p>We have from time to time publickly aſſerted and declared, not only by our words but by our lives and practices that our principles are for the promoting Love, Peace, and good will amongſt all Men; being indeed the natural fruit and effect of true Chriſtianity, or the Chriſtian Religion.</p>
+            <p>Notwithſtanding which we ſtill ſuffer under the Notion and denomination of evil doers, though hitherto through the grace of God we have kept our integrity and walked in innocency and in in offenceciſneſs towards all Men; and a little Chriſtian kind<g ref="char:EOLhyphen"/>neſs and Charity in the Obſervator, would have reſtrained his
+<pb n="3" facs="tcp:45460:2"/>Pen from Rendering us to Magiſtracy, and the whole Nation as a party in Conſpiracy and Rebellion. We have given him no occaſion to account us of the Number of his Trimmers, <hi>viz.</hi> Sometimes of one ſide, Sometimes of another; or any thing to ſave from ſuffering: we go right on our way in fair weather and fowl, through Briers and Thorns; though we are often ſtript of our fleece, and cloath'd with ſtone Dublets, we mean Pri<g ref="char:EOLhyphen"/>ſons.</p>
+            <p>We have no ſhelter but our Innocency, which he ſeems de<g ref="char:EOLhyphen"/>ſirous to diſrobe us off that we might be devoured with Speed, if God did not encline the hearts of his Superiours to believe bet<g ref="char:EOLhyphen"/>ter of us; and to do us more Juſtice. We as a People ſhould be concluded guilty when any particular Perſon that may be reputed of us, doth any thing that is evil, this is not <hi>to do as he would be done by.</hi>
+            </p>
+            <p>We do affirm in the ſight and preſence of God, that we Con<g ref="char:EOLhyphen"/>ſpire with no Man, with no Sect, nor ſort of People againſt the King his Peace and Government; neither have we ever contri<g ref="char:EOLhyphen"/>buted as he injuriouſly ſaith, we have to the raiſing any Storm in the Nation, Privately, or Publickly; therefore the Obſerva<g ref="char:EOLhyphen"/>tor hath wronged and abuſe Us.</p>
+            <p>Having no juſt ground for his Unkind Inferences a<g ref="char:EOLhyphen"/>gainſt us, we are and have alwayes been for things that make for Peace in the family in the City; in the Province, Country, or Kingdom where we dwell. We are redeemed out of the Spirit of Strife, Violence, Wars, and Contentions, Plots, and Conſpiracies, and ſo are Dead to thoſe things; we do believe and declare that thoſe things are inconſiſtant with the Chriſtian Religion, the powerful effect thereof known in the hearts of Men, doth really lead them to love their Enemies, and to pray for them that diſpitefully uſe them, <hi>&amp;c.</hi> then who can ſuch hate and conſpire againſt?</p>
+            <p>But further the Obſervator for a Colourable proof of his In<g ref="char:EOLhyphen"/>ſelences againſt the Quakers, Speaking of the late D. of <hi>M.</hi> Declaration, ſaith, <hi>A Quaker Printer was the Man choſen to diſ<g ref="char:EOLhyphen"/>patch it at the Preſs,</hi> to which we ſay, that we are innocent in the matter we know nothing thereof; neither of the Quaker choſen, nor the chuſers of him: nor of the Declaration it ſelf but by Report. We have no hand in ſpreading and promoting ſuch things which tends to ſtir up Wars, Inſurrections, and Vi<g ref="char:EOLhyphen"/>olence, to the deſtroying mens lives; theſe things are againſt our
+<pb n="4" facs="tcp:45460:3"/>peaceable principle of love and good will which we have to all Men. And we do ſolemnly declare, that if any that hath walk<g ref="char:EOLhyphen"/>ed amongſt us, do have, or ſhall do ſuch things, they are in our eſteem falſe Brethren, deceitful in their Profeſſion, unfaithful to God and Man; Hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ocrites, and Deceiptful Workers, and were either never truely of us, or are fallen degenerated and Apo<g ref="char:EOLhyphen"/>ſtatized from the love and fear of God and good will to Men, which is the true ground of our Religion; and ſuch are evil do<g ref="char:EOLhyphen"/>ers and ought to bear their own Burthen.</p>
+            <p>But we hope if ſuch ſhould be found that hath the name Quaker committing evil things, no juſt men will judge it equal, that we as a People ſhould be charged guilty thereof; in ſo do<g ref="char:EOLhyphen"/>ing no Society of men can be innocent.</p>
+            <p>We do declare we know no Printer amongſt us guilty of medling with the ſaid Declaration, neither can we be privy to any ſuch thing, nor have we any Correſpondency or Confede<g ref="char:EOLhyphen"/>racy with any ſuch Perſons, or matter in any thing that tends to the diſturbance of the Peace of the Kingdom; neither do we trouble the King and Government otherwiſe then by Applica<g ref="char:EOLhyphen"/>tion in humility, laying before them our great ſufferings. En<g ref="char:EOLhyphen"/>devouring to perſwade them by Councel, Teſtimony, Exhor<g ref="char:EOLhyphen"/>tation, and Converſation, that we are peaceable and free from the very inclination of raiſing Storms, or Commotions, in the Nation, Country, or Kingdom, where we dwell.</p>
+            <p>We have not Suffered as buſiy bodys or medlors with other mens Matters, or as ſtirrers up of Rebellion, or as having any hand therein; and we hope it will be manifeſted to all that we are free from ſuch things. And that the unkind Obſervator will fail in his endeavor to cauſe the innocent to ſuffer with the guilty.</p>
+            <p>Our conſtant Practice hath been to obey Magiſtracy, and to ſhew forth obedience to every ordinance of men (that tends to the praiſe of them that do well, and to the terror of thoſe that do evil) for the Lords-ſake, for the Truths-ſake, even in all things Relating to the things of a man; not for fear of puniſh<g ref="char:EOLhyphen"/>ment, but for Conſcience-ſake: we believe it our duty and or<g ref="char:EOLhyphen"/>namental to our Profeſſion. Being bound by the law of God written in our hearts thereto, and all that are and have been faithful to the ſame, are and have been found therein, and in the conſiant practice thereof; and no cauſe hath been found a<g ref="char:EOLhyphen"/>gainſt us but in things relating to God, about Forms, Faſhions,
+<pb n="5" facs="tcp:45460:3"/>and Ceremonies of Religion, Church, and Worſhip, and here<g ref="char:EOLhyphen"/>in we ſhere with the Righteous, with the truely Conſciencious in all Ages; whoſe choice was alwayes rather to obey God then Men, ſuffer for well doing rather then wrong, violate or deſtroy and make ſhip wrack of Faith and a good Conſcience, as might be demonſtrated at large.</p>
+            <p>Now as we have alwayes bore witneſs againſt Cruelty, Vi<g ref="char:EOLhyphen"/>olence, and Perſecution, purely about Religion, or the form and manner of Worſhip, and the deſtroying mens Libertys, Lives, and Eſtates in this World; about the underſtanding or miſunderſtanding of the things of the World to come. We ſay, as we have aſſerted theſe things to be inconſiſtant with tru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Religion, and Chriſtianity, and Contrary to the nature thereof; ſo alwayes we have and do affirm and declare, that where mens Opinions and Principles about Religion, leads them to Cove<g ref="char:EOLhyphen"/>nant, Conſpire, Plot, and Contrive Miſchief, and Rebellion, under what name or pretence ſoevever; and if they are but found making any ſteps thereto, though they do not effect the ſame, they are evil doers. Such being indeed a Scandal and Reproach to true Chriſtia<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ity, which never taught nor led any to conſult the hurt, or to riſe up with violence againſt King, Prince, Ru<g ref="char:EOLhyphen"/>ler, or Governour of the Kingdom, Country, Province, or City where they dwell. Though ſuch Kings, Princes, Rulers, or Governours, where Heathens, or Infidels, hereby the Primi<g ref="char:EOLhyphen"/>tive Chriſtians were taught and enabled to ſuffer, but not to Re<g ref="char:EOLhyphen"/>bel: and true Chriſtianity is now the ſame, and teaches the ſame leſſons to the true profeſſors thereof.</p>
+            <p>For the true Chriſtian ſufferers knows right well, that it is the prevailing of the Spirit of Darkneſs, Ignorance, and Enmi<g ref="char:EOLhyphen"/>ty, in the hearts of their Enemies and Perſecutors; that cauſeth them to Hate Revile and Perſecute them as it did their Captain Chriſt Jeſus; ſo cannot hate, but pray for and pitty them as Crea<g ref="char:EOLhyphen"/>tures Captivated and blinded with the Spirit of Error and Igno<g ref="char:EOLhyphen"/>rance, as the poor Jews were, who ſlew Chriſt and Perſecuted his Followers, and all for want of knowing of them: as it is writter, <hi>If they had known him, they would not have Crucified him; Fat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er forgive them they know not what they do,</hi> &amp;c.</p>
+            <p>So if thoſe who perſecute Chriſt in his Members now, did but know him and them: and their innocent deſign and buſineſs in the world; which is to bear witneſs to the truth and the Spirit of it, which hath made them free from the Spirit of this world,
+<pb n="6" facs="tcp:45460:4"/>which luſteth to Envy, Hatred, Violence, and evil Will. They would not endeavour to ſpoile and ruin them for their love and good will, in telling them what the Lord hath done for their Souls, and how they may Come to enjoy the ſame.</p>
+            <p>We have no baſe Selfiſh intereſt nor deſign to carry on, we cannot be privy to, nor active in any hurtful deſign, or Con<g ref="char:EOLhyphen"/>ſpiracy againſt any of our Neighbours, nor any man: much leſs againſt the King, or the Peace of our Country, we are not troubleſome to the Magiſtrates, neither do men find cauſe againſt us ſave in matter of our God.</p>
+            <p>Our endeavour hath been (ever ſince God opened our un<g ref="char:EOLhyphen"/>derſtandings, and ſeperated us from the divers ſorts of Wor<g ref="char:EOLhyphen"/>ſhips and Worſhippers that are and have been in theſe Nations) to walk Circumſpectly not as Fools, though accounted ſo, not as Seditious Sectaries though reckoned amongſt them, not as diſ<g ref="char:EOLhyphen"/>ſturbers of the peace, though we have been dealt with as ſuch. Indeed we have had great cauſe to know and be aſſured of ſome<g ref="char:EOLhyphen"/>thing that is better then Houſe or Land, Goods and Liberty; that are Made willing to expoſe them all to loſs and ruin, ra<g ref="char:EOLhyphen"/>ther then ſin againſt our knowledge that God hath given us; rather then break Chriſts Commands and precepts: rather then diſobey his Doctrine which he his Miniſters, Diſciples, and Fol<g ref="char:EOLhyphen"/>lowers not only taught but practiſed in ages paſt, and he doth and will enable his followers in this age to do the ſame, cloathing them with zeal for his name; and with love, meekneſs, and Gentleneſs towards all which in time may quench the wrath and Rage of men, and provoke them to love and good works; and alſo make them confeſs and acknowledge that God is with us of a Truth. The which till the Lord bring it paſs, we are willing in peace and patience to wait, and quietly to bear the wrath and rage of men againſt us.</p>
+            <p>For we firmly believe and aſſuredly know that where ever men are found Seditious diſturbers of the Peace, or in the pra<g ref="char:EOLhyphen"/>ctice of violence and cruelty, under the Notion and Profeſſion of the Chriſtian Religion; ſuch are certainly deceived and bound under the Chain of a falſe Opinion, and they have not the love of God nor their Neighbour planted in their hearts, and are far eſtranged from that Royal law of Chriſt Jeſus, <hi>as ye would that men ſhould do to you, do ſo to them likewiſe;</hi> in whom<g ref="char:EOLhyphen"/>ſoever this love to God and their Neighbour is wanting, and the breach of this law is found, they are of ſome private Oppinion,
+<pb n="7" facs="tcp:45460:4"/>and are prone to uſe violence and endeavour to impoſe their op<g ref="char:EOLhyphen"/>pinions by force upon others, when they have power and op<g ref="char:EOLhyphen"/>portunity in their hands; from hence hath riſen much Trouble, Wars, and Bloodſhed in this and many Nations, which we de<g ref="char:EOLhyphen"/>ſire God to prevent for the future.</p>
+            <p>For we do affirm all ſuch things are contrary to the nature of Chriſt and Chriſtianity, his Doctrine and Example teacheth no ſuch things, the tenor of his Goſpel is <hi>Peace on Earth, and good will towards men; love not only your Friends but your Enemies, bleſs them that curſe you, do good to them that hate you, do good to all, follow peace with all Men.</hi>
+            </p>
+            <p>In this the Chriſtian Religion excels all the Religions in the World; the love of God is the foundation and topſtone of this Religion, and the true Chriſtians hath it ſhed abroad in their hearts, and where this is wanting in the hearts of men profeſſing and talking of Religion, though they may have a zeal for the for<g ref="char:EOLhyphen"/>mallity thereof, yet they have not Acceptance with God therein.</p>
+            <p>Thoſe ſayings of Chriſt, <hi>With what Judgement you Judge, you ſhall be Judged; with what meaſure you Meet, ſhall be meaſured to you again,</hi> hath been and ſhall be witneſſed a great truth; In<g ref="char:EOLhyphen"/>fallible and Univerſal.</p>
+            <p>Therefore it concerns all eſpecially thoſe that profeſs God, Chriſt, and the Scriptures, to take heed what Judgment they give, and what meaſure they meet, God will not be mocked, he is juſt and righteous in all his wayes, and doings; ſuch as men ſow they ſhall reap Sooner, or Later. Vengance is the Lords and he will repay it, and he knows how to ſuccor and ſupport thoſe that truly fear him, and works Righteouſneſs in all Nations; and thoſe are ſincere in heart to God and true to what they know of him, though it be but a little and under many clouds and weakneſſes, they are and ſhall be accepted by him, through the Son of his love: under whoſe hand and power we have reſigned up our ſelves and our innocent cauſe, aſſuredly knowing that he will plead it in the hearts of our Enemies, and make them in ſome meaſure ſenſible thereof, and that as we a<g ref="char:EOLhyphen"/>bide in his fear which is the beginning of all true wiſdom; and in the participation of his love, we ſhall be a bleſſing to our Na<g ref="char:EOLhyphen"/>tion, and the Children unborn ſhall call us happy; when they ſhall hear of our love and faithfulneſs to God, the King and our Country, and of our patient Suffering for well doing, then ſhall they praiſe God on our behalf, and ſay of a truth, God was which us and did unhold us by the arm of his Power.</p>
+            <pb n="8" facs="tcp:45460:5" rendition="simple:additions"/>
+            <p>So with hearty prayer to Almighty God, that the King and thoſe in Authority may ſee and behold our Innocency and Love towards Him and all Men; and our tenderneſs of Conſcience and fear towards God, and incline their hearts to d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l with us ac<g ref="char:EOLhyphen"/>cordingly. However we pray for the King, and the proſperity of our Country, heartily deſiring that Peace, Love, good Will, and good Neighbourhood may ab und therein, and <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ivi<g ref="char:EOLhyphen"/>ſions, Heats. Annimoſities and evil deſigns one againſt another may be extinguiſhed and come to an end amongſt all our Neighbours, and Country men, the which we earneſtly deſire and Remain friends of God and all men.</p>
+            <closer>
+               <signed>From and in behalf of the Peo<g ref="char:EOLhyphen"/>ple of God called Quakers.</signed>
+               <dateline>London dated <date>
+                     <hi>the</hi> 27th 5th <hi>month</hi> 85.</date>
+               </dateline>
+            </closer>
+            <trailer>The End.</trailer>
+            <pb facs="tcp:45460:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
